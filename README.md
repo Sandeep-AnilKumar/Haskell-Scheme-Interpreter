@@ -1,6 +1,6 @@
-"# Haskell-Scheme-Interpreter" 
+## Haskell-Scheme-Interpreter
 
-Hello, welcome to my scheme-interpreter.
+#Hello, welcome to my scheme-interpreter.
 
 After unzipping the folder, you should be having the following folders and files in the directory containing this README.
 
@@ -81,4 +81,4 @@ If you have any difficulties in executing any of the commands or codes, reach ou
 EMAIL :- sandeepkanil@gmail.com
 PHONE :- (312) 468-5815
 
-Thank you!
+###Thank you!
